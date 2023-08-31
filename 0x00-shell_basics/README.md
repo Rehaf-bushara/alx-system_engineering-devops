@@ -1,1 +1,1 @@
-readme fiel
+shell basics
